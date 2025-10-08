@@ -78,3 +78,16 @@ Example: A wireframe clearly showing a login flow prevents confusion about where
 
 
 
+## Wireframing in Practice
+Scenario:
+While designing a banking mobile app, initial wireframes revealed that users had to navigate through four screens to transfer funds—a process that testers found confusing and inefficient.
+Resolution:
+UX designers revised the wireframe, consolidating steps into a single streamlined interface with contextual prompts. The updated wireframe was re-tested and validated by users for clarity and speed.
+Impact:
+The final product had a more intuitive user flow, resulting in higher user satisfaction and a 25% decrease in task completion time.
+Conclusion:
+Wireframing enabled early detection of usability flaws, allowing design revisions before development. This ensured a user-friendly, efficient interface, reducing rework and improving product quality
+
+
+
+
