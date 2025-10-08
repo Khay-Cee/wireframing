@@ -43,4 +43,16 @@ Username & password fields
 A login button
 A "Forgot Password?" link
 
+## Types of Wireframes
+Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+
+## The Airbnb project 
+It is done by the guide of a high fidelity wireframe which can be seen here; https://www.figma.com/files/team/1511426183773166950/recents-and-sharing?fuid=1511426301685125553
+
+## Popular Wireframing tools
+The popular wireframing tools include; LucidChart, Sketch, Balsamiq, AdobeXD, and Figma. 
+The tool that is used for this project is Figma.
+
 
